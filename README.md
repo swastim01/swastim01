@@ -3,15 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swastim01&label=Profile%20views&color=f9c453&style=plastic" alt="swastim01" /> </p>
 
-- 🎓 **B.Tech (ECE) at IIT ISM Dhanbad (CGPA: 8.53)**
+- 🎓 **B.Tech (ECE) at IIT ISM Dhanbad (CGPA: 8.43)**
 - 🚀 **Finalist - Google Girl Hackathon 2025** (Top 75/58000+ registrants)
 - 🌟 **Google WE 2024 Scholar: Member of Cohort 6**
 - 🌟 **DESIS Ascend Educare Mentee 2024: Edition 4**
 - 🌟 **NXP WIT Scholar: Batch III**
+- 🌟 **Texas Instruments WiSH Mentee 2025**
+- 🌟 **Barclays Discovery Program 2025 (converted into a Summer Internship offer)**
+- 🌟 **McKinsey & Co Forward Program Mentee | Microsoft Code; Without Barriers Mentee**
 - 📌 **Impactful Projects | ML Enthusiast | Full Stack Developer**
 - 🏆 **National Semi-finalist - Tata Imagination Challenge 2024**
-- 🛠 **Currently working on SmartLend - a P2P lending platform**
 - 📬 How to reach me **swasti.mishra0101@gmail.com**
+- 🏆 **Currently working on my portfolio :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
