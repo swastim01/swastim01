@@ -8,11 +8,12 @@
 - 🌟 **Google WE 2024 Scholar: Member of Cohort 6**
 - 🌟 **DESIS Ascend Educare Mentee 2024: Edition 4**
 - 🌟 **NXP WIT Scholar: Batch III**
-- 🌟 **Texas Instruments WiSH Mentee 2025**
+- 🌟 **Texas Instruments WiSH Mentee 2025 (converted into a Summer Internship offer)**
 - 🌟 **Barclays Discovery Program 2025 (converted into a Summer Internship offer)**
 - 🌟 **McKinsey & Co Forward Program Mentee | Microsoft Code; Without Barriers Mentee**
 - 📌 **Impactful Projects | ML Enthusiast | Full Stack Developer**
 - 🏆 **National Semi-finalist - Tata Imagination Challenge 2024**
+- 🏆 **AIR 5 - Naukri Campus EROH**
 - 📬 How to reach me **swasti.mishra0101@gmail.com**
 - 🏆 **Currently working on my portfolio :)**
 
