@@ -15,7 +15,7 @@
 - 🏆 **National Semi-finalist - Tata Imagination Challenge 2024**
 - 🏆 **AIR 5 - Naukri Campus EROH**
 - 📬 How to reach me **swasti.mishra0101@gmail.com**
-- 🏆 **Currently working on my portfolio :)**
+- 🏆 **Currently working on AI agents :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
