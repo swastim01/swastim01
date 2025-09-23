@@ -51,8 +51,3 @@
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=swastim01&" alt="swastim01" height="47%" width="47%" /></p>
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=swastim01&show_icons=true&locale=en&layout=compact" alt="swastim01" /></p>
 
-<h3 align="left">LeetCode Stats:</h3>
-<p align="left">
-<img src="https://leetcard.jacoblin.cool/swastim01?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
-</p>
-
