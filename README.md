@@ -15,19 +15,7 @@ I write code, build stuff, and sometimes try to make AI do my chores 🤖
 
 ---
 
-### What I Work With
-
-**Languages:** C, C++, Python, Java, TypeScript, JavaScript, Go  
-**Frontend:** HTML, CSS, React, Next.js, Angular, TailwindCSS, Bootstrap  
-**Backend:** Node.js, Express, Flask, FastAPI, Spring Boot  
-**Databases:** MySQL, PostgreSQL, MongoDB, Firebase, Supabase, SQLite  
-**AI/ML:** Pandas, NumPy, TensorFlow, PyTorch, OpenCV, Scikit-learn  
-**Cloud & DevOps:** AWS, Vercel, Render, Docker, GitHub Actions, Linux  
-**Tools:** VS Code, Git, Figma, Postman, Canva  
-
----
-
-### Top Projects
+### A few projects
 
 - [**TaxEase**](https://github.com/swastim01/TaxEase) — AI that makes Indian taxes slightly less painful  
 - [**SmartLend**](https://github.com/swastim01/SmartLend) — P2P lending + AI risk scoring = 💰  
