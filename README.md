@@ -8,7 +8,7 @@ I write code, build stuff, and sometimes try to make AI do my chores 🤖
 - 🎓 B.Tech (ECE) | CGPA: 8.43  
 - 🚀 Google Girl Hackathon 2025 Finalist  
 - 🌸 Google WE Scholar 2024 | D. E. Shaw DESIS Ascend Educare  
-- 💡 Texas Instruments WiSH Intern 2025 | NXP Women in Tech Scholar  
+- 💡 Texas Instruments WiSH Mentee 2025 | NXP Seniconductors Women in Tech Scholar  
 - 🧠 McKinsey Forward & Microsoft Code Without Barriers Mentee  
 - 💬 I get excited about AI Agents, ML Systems, and Full Stack magic  
 - 📬 Ping me at: swasti.mishra0101@gmail.com
