@@ -5,7 +5,7 @@ I write code, build stuff, and sometimes try to make AI do my chores 👾
 
 ### About Me
 
-- B.Tech (ECE) | CGPA: 8.43  
+- B.Tech (ECE) | CGPA: 8.33  
 - Google Girl Hackathon 2025 Finalist  
 - Google WE Scholar 2024 | D. E. Shaw DESIS Ascend Educare  
 - Texas Instruments WiSH Mentee 2025 | NXP Semiconductors Women in Tech Scholar  
